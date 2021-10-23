@@ -6,5 +6,5 @@ Python 3.9
 
 Install dependancy
 ```
-pip install -r requirments.txt
+pip install -r requirements.txt
 ```
