@@ -4,7 +4,8 @@
 
 # Data
 data/
-notebooks/furniture-images-dataset.zip
+images/
+*.zip
 
 
 # Byte-compiled / optimized / DLL files
