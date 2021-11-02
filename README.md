@@ -1,5 +1,5 @@
-# airbnb-furniture-finder
-AI system that get input image and send a list of the current furniture present on an appartment.
+# template-CNN
+The purpose of this repository is to show and reminds some good practice about neural network development (mostly because it's fucking details oriented --")
 
 ## Environment
 Python 3.9
