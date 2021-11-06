@@ -1,10 +1,18 @@
-# template-CNN
-The purpose of this repository is to show and reminds some good practice about neural network development (mostly because it's fucking details oriented --")
+# ML playground
+The purpose of this repository is to remind and play around machine and deep learning concepts through a few datasets. 
+
+We'll explore for the moment machine learning regression and neural network's CNN.
+
 
 ## Environment
-Python 3.9
+- Python 3.9
+- Anacond3
+- Unix like OS + GPU
 
-Install dependancy
+### Install env and dependancy
+
 ```
-pip install -r requirements.txt
+conda create -n ml-playground python=3.9
+
+conda activate ml-playground && pip install -r requirements.txt
 ```
