@@ -4,6 +4,7 @@
 
 # Data
 data/
+tmp/
 images/
 *.zip
 *.pt
