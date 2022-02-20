@@ -22,7 +22,7 @@ It could be very helpful to other student to see how they can solve datascience 
 ### Install env and dependancy
 
 ```
-conda create -n ml-playground python=3.9
+conda create -n data-playground python=3.9
 
-conda activate ml-playground && pip install -r requirements.txt
+conda activate data-playground && pip install -r requirements.txt
 ```
