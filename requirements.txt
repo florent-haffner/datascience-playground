@@ -12,6 +12,10 @@ gensim==4.1.2
 # Deep learning env
 #keras-applications==1.0.8
 #tensorflow==2.6.0
+
+keras==2.8.0
+tensorflow==2.8.0
+
 fastai==2.5.3
 torch==1.10.0
 

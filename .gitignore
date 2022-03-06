@@ -3,7 +3,7 @@
 .vscode/
 
 # Data
-data/
+*/data/
 tmp/
 images/
 *.zip
