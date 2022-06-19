@@ -2,14 +2,17 @@
 .idea/
 .vscode/
 
+# Model
+model/
+
 # Data
-*/data/
+#*/data/
 tmp/
 images/
 *.zip
 *.pt
 *.pth
-*.csv
+#*.csv
 *.png
 
 
